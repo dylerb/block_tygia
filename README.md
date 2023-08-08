@@ -2,13 +2,13 @@
 Block hiển thị tỷ giá ngoại tệ lấy thông tin từ Vietcombank, dùng cho NukeViet 4
 
 ::Hướng dẫn::
-+ Tải 2 files: global.rate.php và global.rate.tpl vào thư mục /themes/default/blocks
-+ Thêm 4 dòng sau vào file /language/XX/global.php tuỳ theo ngôn ngữ bạn đang dùng
++ Tải 2 files: <b>global.rate.php</b> và <b>global.rate.tpl</b> vào thư mục <b>/themes/default/blocks</b>
++ Thêm 4 dòng sau vào file <b>/language/XX/global.php</b> tuỳ theo ngôn ngữ bạn đang dùng
 
-$lang_global['CurrencyCode'] = "Mã";
-$lang_global['buy'] = "Mua vào";
-$lang_global['transfer'] = "C.khoản";
-$lang_global['sell'] = "Bán ra";
+<em>$lang_global['CurrencyCode'] = "Mã";<br>
+$lang_global['buy'] = "Mua vào";<br>
+$lang_global['transfer'] = "C.khoản";<br>
+$lang_global['sell'] = "Bán ra";</em>
 
 Cảm ơn:
 - anhtu
